@@ -1,0 +1,7 @@
+div {
+    border: 1px solid black;
+}
+#view_rooms {
+    display: flexbox;
+    margin: 30vh 30vw;
+}
